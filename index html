@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>الصفحة الرئيسية</title>
+  <style>
+    body { font-family: Arial; text-align: center; background: #f4f4f4; margin: 0; }
+    header { background: #4CAF50; color: #fff; padding: 20px; }
+    nav a { margin: 0 15px; text-decoration: none; color: #fff; font-weight: bold; }
+    nav a:hover { text-decoration: underline; }
+    main { padding: 40px; }
+    footer { background: #333; color: #fff; padding: 10px; position: fixed; bottom: 0; width: 100%; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🚀 مرحبًا بك في موقعي</h1>
+    <nav>
+      <a href="index.html">الرئيسية</a>
+      <a href="about.html">من نحن</a>
+      <a href="contact.html">تواصل معنا</a>
+    </nav>
+  </header>
+  <main>
+    <h2>هذه هي الصفحة الرئيسية</h2>
+    <p>يمكنك التنقل بين الصفحات من القائمة أعلاه.</p>
+  </main>
+  <footer>
+    &copy; 2025 موقعي - جميع الحقوق محفوظة
+  </footer>
+</body>
+</html>
